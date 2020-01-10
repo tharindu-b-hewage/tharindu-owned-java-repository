@@ -15,6 +15,7 @@ public class App {
             throw new Exception();
         } catch (Exception e) {
             e.printStackTrace();
+            e.printStackTrace();
         }
         System.out.println("Hello World!");
     }
